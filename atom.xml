@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jin muxi&#39;s Blog</title>
+  
+  <subtitle>No Excuse</subtitle>
+  <link href="https://knimokusei.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://knimokusei.github.io/"/>
+  <updated>2023-02-13T08:30:12.978Z</updated>
+  <id>https://knimokusei.github.io/</id>
+  
+  <author>
+    <name>Jin muxi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人关于高数的总结</title>
+    <link href="https://knimokusei.github.io/posts/c68a.html"/>
+    <id>https://knimokusei.github.io/posts/c68a.html</id>
+    <published>2023-02-12T14:08:48.980Z</published>
+    <updated>2023-02-13T08:30:12.978Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;极限&quot;&gt;&lt;a href=&quot;#极限&quot; class=&quot;headerlink&quot; title=&quot;极限&quot;&gt;&lt;/a&gt;极限&lt;/h3&gt;&lt;h5 id=&quot;极限概念解题思路：&quot;&gt;&lt;a href=&quot;#极限概念解题思路：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://knimokusei.github.io/posts/3eeb.html"/>
+    <id>https://knimokusei.github.io/posts/3eeb.html</id>
+    <published>2023-02-11T14:06:03.299Z</published>
+    <updated>2023-02-13T08:30:12.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
