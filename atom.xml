@@ -28,9 +28,9 @@
       
         
         
-    <summary type="html">&lt;p&gt;==抄写英文–英译汉–汉译英–对比找差错–针对性地背写出错或差异之处–背写全文–思考每句话如何用来写其他话题==&lt;/p&gt;
+    <summary type="html">&lt;p&gt;==抄写英文--英译汉--汉译英--对比找差错--针对性地背写出错或差异之处--背写全文--思考每句话如何用来写其他话题==&lt;/p&gt;
 &lt;p&gt;==重点单词:==&lt;/p&gt;
-&lt;ol&gt;
+&lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;Respect n.</summary>
         
       
@@ -52,9 +52,10 @@
       
         
         
-    <summary type="html">&lt;p&gt;$\textcolor{red}{&lt;green book=&quot;&quot;&gt;}$&lt;/green&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;span class=&quot;math inline&quot;&gt;\(\textcolor{red}{&amp;lt;Green
+Book&amp;gt;}\)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;《绿皮书》&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dear Dolores,When-I-think-of-you,I’m-reminded</summary>
+&lt;p&gt;Dear</summary>
         
       
     
@@ -75,7 +76,10 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;极限&quot;&gt;&lt;a href=&quot;#极限&quot; class=&quot;headerlink&quot; title=&quot;极限&quot;&gt;&lt;/a&gt;极限&lt;/h3&gt;&lt;h5 id=&quot;极限概念解题思路：&quot;&gt;&lt;a href=&quot;#极限概念解题思路：&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h3 id=&quot;极限&quot;&gt;极限&lt;/h3&gt;
+&lt;h5 id=&quot;极限概念解题思路&quot;&gt;极限概念解题思路：&lt;/h5&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot;</summary>
         
       
     
@@ -96,7 +100,8 @@
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very
+first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
